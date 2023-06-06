@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sulaiman</h1>
-<h3 align="center">A passionate Web Developer | Machine Engineer from Saudi Arabia</h3>
+<h3 align="center">A passionate Web Developer | Machine Learning Engineer from Saudi Arabia</h3>
 
 - 📫 How to reach me **alkurbi.suliman@gmail.com**
 
